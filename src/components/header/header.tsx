@@ -1,4 +1,4 @@
-import { Link, Stack, Image, ImageFit, IImageProps, PrimaryButton, IStackTokens, DefaultButton, CommandBarButton, IStackStyles, IImageStyles } from "@fluentui/react"
+import { Stack, Image, IStackTokens, DefaultButton } from "@fluentui/react"
 import { getHeaderStyles } from "./header.style"
 import logo from '../../mtg-logo.png'
 
